@@ -1,4 +1,4 @@
-# Anycubic-i3-Mega
+# Anycubic-i3-Mega Marlin 2.0.6
 ## Marlin 2.0.6
 
 I edit the great Version from Bavarian C. for the Anycubic i3 Mega. 
